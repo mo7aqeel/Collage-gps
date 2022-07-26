@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Fix/CollageProject/app/src/main/res/layout/activity_floor_two.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_departments2.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_floor_two.xml" value="0.12962962962962962" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_floors.xml" value="0.18" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_main.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_places.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_plan.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_qr_scanner.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_room.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_search.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_search_room.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_splash.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/activity_type.xml" value="0.18229166666666666" />
+        <entry key="..\:/Fix/CollageProject12/app/src/main/res/layout/listview_item.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/drawable/detect_place.xml" value="0.25" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/drawable/ic_floor1.xml" value="0.75" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/drawable/ic_qr_code_scanner_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/drawable/ic_search_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_departments.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_departments2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_floor_two.xml" value="0.22" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_floors.xml" value="0.22" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_places.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_plan.xml" value="0.22" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_qr_scanner.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_room.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_search_room.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/activity_type.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/layout/listview_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/A.S/AndroidStudioProjects/CollageProject/app/src/main/res/menu/main_menu.xml" value="0.1962962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

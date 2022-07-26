@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Departments">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/route"
+        android:layout_centerInParent="true"
+        android:alpha="0.3"/>
+
+    <TextView
+        android:id="@+id/searchEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="@font/notokufiarabic_regular"
+        android:textColor="@color/colorPrimaryDark"
+        android:drawablePadding="8dp"
+        android:hint="Search"
+        app:drawableStartCompat="@drawable/ic_search_24" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/searchEdit"
+        android:id="@+id/floors_list"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/searchEdit"
+        android:visibility="gone"
+        android:id="@+id/floor_one_list"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/searchEdit"
+        android:visibility="gone"
+        android:id="@+id/floor_two_list"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/searchEdit"
+        android:visibility="gone"
+        android:id="@+id/network_list"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/searchEdit"
+        android:visibility="gone"
+        android:id="@+id/software_list"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/searchEdit"
+        android:visibility="gone"
+        android:id="@+id/lect_list"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/searchEdit"
+        android:visibility="gone"
+        android:id="@+id/lab_list"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/searchEdit"
+        android:visibility="gone"
+        android:id="@+id/mangeOne_list"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        android:id="@+id/mangeTow_list"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/searchEdit"
+        android:visibility="gone"
+        android:id="@+id/security_list"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/searchEdit"
+        android:visibility="gone"
+        android:id="@+id/floorTowMain_list"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_centerHorizontal="true"
+        android:padding="16dp"
+        android:id="@+id/info_text"/>
+
+    <Button
+        android:id="@+id/detect_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/info_text"
+        android:visibility="gone"
+        android:layout_marginTop="32dp"
+        android:layout_centerHorizontal="true"
+        android:text="تحديد المكان"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="رجوع"
+        android:visibility="gone"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/info_text"
+        android:id="@+id/back_text"/>
+
+</RelativeLayout>
